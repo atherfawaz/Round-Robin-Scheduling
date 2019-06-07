@@ -1,6 +1,3 @@
-//Ather Fawaz
-//17L-4004
-//Assignment 2
 //Scheduler with Singly Cirular Linked List
 
 #include <iostream>
